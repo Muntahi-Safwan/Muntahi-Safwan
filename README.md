@@ -2,8 +2,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1500&random=false&width=435&lines=Assalamualaikum+Warahmatullah;I+am+Muntahi+Safwan;Computer+Science+Student;Self+Taught+Web+Developer;Business+Enthusiast" alt="Typing SVG" /></a>
 </p>
 
----
-
 ![Muntahi Safwan](https://github.com/Muntahi-Safwan/Muntahi-Safwan/blob/main/banner.png?raw=true)
 
 ---

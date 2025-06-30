@@ -22,7 +22,7 @@
 
 -   🌱 I’m currently learning **Full Stack Web Development**
 
--   👨‍💻 All of my projects are available at my [portfolio](https://www.muntahi-safwan.netlify.app) website
+-   👨‍💻 All of my projects are available at my [portfolio]([https://www.muntahi-safwan.me/]) website
 
 -   💬 Ask me about **JavaScript, React, CSS and Node JS**
 

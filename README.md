@@ -1,89 +1,173 @@
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1500&random=false&width=435&lines=Assalamualaikum+Warahmatullah;I+am+Muntahi+Safwan;Computer+Science+Student;Self+Taught+Web+Developer;Business+Enthusiast" alt="Typing SVG" /></a>
-</p>
+<div align="center">
 
-![Muntahi Safwan](https://github.com/Muntahi-Safwan/Muntahi-Safwan/blob/main/banner.png?raw=true)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0ea5e9&height=200&section=header&text=Muntahi%20Safwan&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Founder%20%26%20CEO%2C%20Octarnal%20Digital%20Solutions&descAlignY=56&descSize=17" width="100%"/>
 
----
+### Full-Stack Developer · AI/RAG Researcher · CS & EEE Student @ AIUB
 
-<!-- Copy-paste in your Readme.md file -->
+<a href="https://octarnal.com"><img src="https://img.shields.io/badge/Octarnal-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.muntahi-safwan.me"><img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/muntahi-safwan/"><img src="https://img.shields.io/badge/LinkedIn-0ea5e9?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:muntahi1212@gmail.com"><img src="https://img.shields.io/badge/Email-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<div align="center"> <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=84014513" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=84014513&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @Muntahi-Safwan" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=84014513&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a> 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=muntahi-safwan&label=Profile%20views&color=0e75b6&style=flat" alt="muntahi-safwan" />
-</p>
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=muntahi-safwan&label=Profile%20Views&color=0ea5e9&style=for-the-badge" />
+
 </div>
 
----
+<br/>
 
--   🌱 I’m currently learning **Full Stack Web Development**
+## 👋 About
 
--   👨‍💻 All of my projects are available at my [portfolio](https://www.muntahi-safwan.me/) website
+I'm the founder of **Octarnal**, a Dhaka-based digital agency building UI/UX, full-stack web and mobile products, e-commerce platforms, and AI systems for clients across Bangladesh, North America, Europe, and the GCC. Alongside that I'm studying Computer Science and Electrical & Electronic Engineering at AIUB, and most of what I know about running the technical side of a company I've learned from working alongside our team.
 
--   💬 Ask me about **JavaScript, React, CSS and Node JS**
+My work and interests sit at the intersection of full-stack engineering, AI-powered applications, and retrieval-augmented systems — I like taking an idea through the full path from concept to architecture to deployment.
 
--   📫 How to reach me: **muntahi1212@gmail.com**
+<br/>
 
----
+## 💼 What I Do
 
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<table width="100%" >
+### Full-Stack Development
+Modern web applications with attention to architecture, performance, and maintainability.
 
- <tr>
-    <td width="60%">
-     
-## 🛠️ Skills
-
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
-
-![Javascript](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
-
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-
-![Reactjs](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
-
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-
+**Focus:** SaaS apps · E-commerce platforms · Dashboards · REST APIs · Auth · Database design
 
 </td>
-    <td>
-  
-## 📄📜 Stats
+<td width="50%" valign="top">
 
-<p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Muntahi-Safwan&theme=radical&show_icons=true" />
- </br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Muntahi-Safwan&theme=radical"/>
- </br>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muntahi-Safwan&theme=radical&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact" />
-</p>
-     
-  </td>
- </tr>
+### AI & Intelligent Systems
+Integrating modern AI into practical, production software.
+
+**Focus:** RAG · GraphRAG · Knowledge graphs · LLM-powered apps · Reinforcement learning
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+### Product Engineering
+Idea → Design → Architecture → Development → Deployment — end to end, not isolated features.
+
+</td>
+<td valign="top">
+
+### Research
+Currently exploring **Adaptive Graph Compression** for efficient GraphRAG systems.
+
+</td>
+</tr>
 </table>
 
----
+<br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/MuntahiSafwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muntahi_safwan" height="30" width="40" /></a>
-<a href="https://fb.com/muntahi.safwan.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muntahi.safwan.1" height="30" width="40" /></a>
-<a href="https://instagram.com/muntahi_safwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muntahi_safwan" height="30" width="40" /></a>
-</p>
+## 🛠️ Tech Stack
 
----
+<div align="center">
 
-> Let's Create a Difference, Together
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux&theme=dark" />
 
----
+<br/><br/>
+
+**Backend & Data**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgres,prisma&theme=dark" />
+
+<br/><br/>
+
+**Tools & Platforms**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vercel,figma&theme=dark" />
+
+<br/><br/>
+
+**Exploring**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" />
+
+</div>
+
+<br/>
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🛒 UrbanMarket**
+Full-stack e-commerce platform with product/variant management, admin dashboard, analytics, and auth.
+<br/>`Next.js` `TypeScript` `MongoDB` `Prisma` `Tailwind`
+
+</td>
+<td width="50%" valign="top">
+
+**📝 OpenPost**
+Open-source blogging platform with authentication, post management, and state-driven architecture.
+<br/>`React` `Redux Toolkit` `Tailwind` `Appwrite`
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**🎓 UniQuiz**
+Java-based quiz and examination application for academic use.
+<br/>`Java`
+
+</td>
+<td valign="top">
+
+**🧠 Adaptive Graph Compression**
+Research project on using reinforcement learning to dynamically compress knowledge graphs for GraphRAG.
+<br/>`GraphRAG` `RL` `Information Retrieval` `LLMs`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🏢 Octarnal Digital Solutions
+
+Building modern digital products across web apps, SaaS, AI-powered applications, UI/UX, and custom software — for clients in Bangladesh, North America, Europe, and the GCC.
+
+**→ [octarnal.com](https://octarnal.com)**
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Muntahi-Safwan&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muntahi-Safwan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&langs_count=8" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Muntahi-Safwan&theme=tokyonight&hide_border=true&background=0d1117&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Muntahi-Safwan&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Muntahi-Safwan&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=0ea5e9&line=0ea5e9&point=ffffff" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### Let's create a difference, together.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1e293b&height=100&section=footer" width="100%"/>
+
+</div>

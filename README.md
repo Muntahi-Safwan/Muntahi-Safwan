@@ -2,8 +2,8 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=32&amp;pause=1500&amp;color=0EA5E9&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Muntahi+Safwan;Founder+%26+CEO%2C+Octarnal;Full-Stack+Developer;AI+%2F+RAG+Researcher" alt="Typing SVG" /></a>
 
-### Founder & CEO, Octarnal Digital Solutions
-### Full-Stack Developer · AI/RAG Researcher · CS & EEE Student @ AIUB
+### Founder & CEO, Octarnal
+### Full-Stack Developer · AI/RAG Researcher · CSE Student @ AIUB
 
 <a href="https://octarnal.com"><img src="https://img.shields.io/badge/Octarnal-0ea5e9?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" /></a>
 <a href="https://www.muntahi-safwan.me"><img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" /></a>
@@ -20,7 +20,7 @@
 
 ## 👋 About
 
-I'm the founder of **Octarnal**, a Dhaka-based digital agency building UI/UX, full-stack web and mobile products, e-commerce platforms, and AI systems for clients across Bangladesh, North America, Europe, and the GCC. Alongside that I'm studying Computer Science and Electrical & Electronic Engineering at AIUB, and most of what I know about running the technical side of a company I've learned from working alongside our team.
+I'm the founder of **Octarnal**, a Dhaka-based digital agency building UI/UX, full-stack web and mobile products, e-commerce platforms, and AI systems for clients across Bangladesh, North America, Europe, and the GCC. Alongside that I'm studying Computer Science Engineering at AIUB, and most of what I know about running the technical side of a company I've learned from working alongside our team.
 
 My work and interests sit at the intersection of full-stack engineering, AI-powered applications, and retrieval-augmented systems — I like taking an idea through the full path from concept to architecture to deployment.
 
